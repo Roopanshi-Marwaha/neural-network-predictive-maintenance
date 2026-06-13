@@ -33,7 +33,7 @@ AI4I 2020 Predictive Maintenance Dataset
 
 ## Results
 
-The models were evaluated using standard classification metrics such as Accuracy, Precision, Recall, F1-Score, and ROC-AUC.
+The models were evaluated using standard classification metrics such as Accuracy, Precision, Recall, F1 Score, and ROC AUC.
 
 Among the implemented models, XGBoost achieved the best overall performance for machine failure prediction.
 
